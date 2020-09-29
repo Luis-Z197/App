@@ -7,11 +7,12 @@ $this->title = 'My Yii Application';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>Congratulations!</h1>
+        <h1>Bienvenidos</h1>
 
-        <p class="lead">You have successfully created your Yii-powered application.</p>
+        <p class="lead">Mi primera Apicación Web con Yii2</p>
 
-        <p><a class="btn btn-lg btn-success" href="http://localhost:8080/">Get started with Yii</a></p>
+        <p><a class="btn btn-lg btn-success" href="index.php?r=country">Crud tabla Country generado con Gii</a></p>
+        <p><a class="btn btn-lg btn-primary" href="index.php?r=crud">Crud tabla Country de forma manual</a></p>
     </div>
 
     <div class="body-content">

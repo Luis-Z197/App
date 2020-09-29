@@ -2,7 +2,7 @@
 use yii\widgets\LinkPager;
 ?>
 <div class="content content-fluid">
-    <h1>Paises</h1>
+    <h1>Países</h1>
     <div style="padding: 15px 0px;">
         <a class="btn btn-lg btn-primary" href="index.php?r=crud/insert">Agregar nuevo País</a>
     </div>
