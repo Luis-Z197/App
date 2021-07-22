@@ -10,7 +10,7 @@ use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 
 /**
- * CountryController implements the CRUD actions for Country model.
+ * Crud con frameword YII 3 Luis Zurita.
  */
 class CountryController extends Controller
 {

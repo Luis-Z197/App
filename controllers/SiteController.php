@@ -14,7 +14,7 @@ use app\models\TestForm;
 class SiteController extends Controller
 {
     /**
-     * {@inheritdoc}
+     * Luis Zurita
      */
     public function behaviors()
     {
